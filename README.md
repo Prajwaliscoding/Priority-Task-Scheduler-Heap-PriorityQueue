@@ -8,25 +8,25 @@ This project demonstrates practical use of **data structures and algorithms (DSA
 
 ## Features
 
-✅ **Data Structure:**
+**Data Structure:**
 
 - Implements a **Min-Heap / Priority Queue** using a dynamic array.
 - Insertions and deletions maintain the heap property in **O(log n)** time.
 
-✅ **Task Management:**
+**Task Management:**
 
 - Add new tasks with description, priority, and optional deadline.
 - View, complete, or list tasks in ascending order of priority.
 - Save and load all tasks from a `.csv` file for persistence.
 
-✅ **Command-Line Interface:**
+**Command-Line Interface:**
 
 - Intuitive text-based interaction.
 - Lightweight, portable, and fully written in C.
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 ```text
 Priority-Task-Scheduler-Heap-PriorityQueue/
@@ -52,7 +52,7 @@ Make sure you have gcc installed. (On macOS, it’s included with Xcode Command 
 make
 ```
 
-▶️ Run
+Run
 
 ```bash
 ./scheduler
@@ -65,7 +65,7 @@ Priority Task Scheduler — type 'help' for commands.
 >
 ```
 
-🧾 Commands
+Commands
 
 ```text
 Command	                             Description
@@ -80,7 +80,7 @@ help	                            Displays command help
 quit	                            Exits the program
 ```
 
-🧩 Example Session
+Example Session
 
 ```text
 Priority Task Scheduler — type 'help' for commands.
@@ -112,7 +112,7 @@ Loaded tasks from tasks.csv
 > quit
 ```
 
-💾 Data Structure Overview
+Data Structure Overview
 
 ```c
 typedef struct {

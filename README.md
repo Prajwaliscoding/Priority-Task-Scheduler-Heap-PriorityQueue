@@ -6,7 +6,7 @@ This project demonstrates practical use of **data structures and algorithms (DSA
 
 ---
 
-## 🧠 Features
+## Features
 
 ✅ **Data Structure:**
 

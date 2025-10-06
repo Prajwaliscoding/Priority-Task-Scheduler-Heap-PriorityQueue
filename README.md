@@ -45,7 +45,7 @@ Priority-Task-Scheduler-Heap-PriorityQueue/
 └── Makefile
 ```
 
-⚙️ Build Instructions
+Build Instructions
 Make sure you have gcc installed. (On macOS, it’s included with Xcode Command Line Tools.)
 
 ```bash

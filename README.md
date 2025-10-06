@@ -1,4 +1,4 @@
-# ⚡ Priority Task Scheduler (C, Heap / Priority Queue)
+# Priority Task Scheduler (C, Heap / Priority Queue)
 
 A simple yet powerful **command-line task manager** built in **C**, using a **Min-Heap (Priority Queue)** data structure to schedule and complete tasks based on their **priority and deadlines**.
 
